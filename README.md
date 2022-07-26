@@ -1,5 +1,5 @@
 # nodejs-notes
-Refer: [https://www.w3schools.com/nodejs/nodejs_intro.asp](link)
+Refer: [https://www.w3schools.com/nodejs/nodejs_intro.asp]
 - open source server env
 - free
 - runs on various platforms (win, linux, unix, mac...)
